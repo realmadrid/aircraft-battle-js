@@ -1,0 +1,11 @@
+declaration: >-
+  Everything I have committed to this repo is entirely my own work, with the following exceptions:
+
+assets:
+  - comment: Poetsen One is a 100% free font by Rodrigo Fuenzalida.
+    url: https://dl.dafont.com/dl/?f=poetsen_one
+    licence: Free for Personal and Commercial use
+
+  - comment: The image resources are retrieved from RogerKang's plane shooting game JasonAmbition
+    url: http://www.rogerkang.site:3000/
+    licence: GNU General Public License v3.0
